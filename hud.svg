@@ -1,0 +1,147 @@
+<svg id="组_1" data-name="组 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480" height="640" viewBox="0 0 480 640">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0d1010;
+      }
+
+      .cls-2, .cls-4, .cls-5, .cls-6, .cls-9 {
+        fill: none;
+        stroke-width: 2px;
+      }
+
+      .cls-2, .cls-4, .cls-5, .cls-6 {
+        stroke: #2afb00;
+      }
+
+      .cls-2, .cls-4, .cls-6, .cls-7, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        font-size: 14px;
+        fill: #2afb00;
+        font-family: SimHei;
+      }
+
+      .cls-4, .cls-5 {
+        stroke-linejoin: round;
+      }
+
+      .cls-6 {
+        stroke-dasharray: 12 8;
+      }
+
+      .cls-7, .cls-8 {
+        fill: #2aff00;
+      }
+
+      .cls-9 {
+        stroke: #2aff00;
+      }
+    </style>
+  </defs>
+  <rect id="矩形_2" data-name="矩形 2" class="cls-1" width="480" height="680"/>
+  <path id="形状_1" data-name="形状 1" class="cls-2" d="M234,122v18"/>
+  <path id="形状_2" data-name="形状 2" class="cls-2" d="M267,131v9"/>
+  <path id="形状_2_拷贝_2" data-name="形状 2 拷贝 2" class="cls-2" d="M202,131v9"/>
+  <path id="形状_1_拷贝" data-name="形状 1 拷贝" class="cls-2" d="M299,122v18"/>
+  <path id="形状_2_拷贝" data-name="形状 2 拷贝" class="cls-2" d="M332,131v9"/>
+  <path id="形状_1_拷贝_2" data-name="形状 1 拷贝 2" class="cls-2" d="M364,122v18"/>
+  <path id="形状_1_拷贝_3" data-name="形状 1 拷贝 3" class="cls-2" d="M169,122v18"/>
+  <path id="形状_3" data-name="形状 3" class="cls-2" d="M236,144v24"/>
+  <path id="形状_4" data-name="形状 4" class="cls-2" d="M269,153h53"/>
+  <path id="形状_5" data-name="形状 5" class="cls-2" d="M321,154v4"/>
+  <path id="形状_4_拷贝" data-name="形状 4 拷贝" class="cls-2" d="M150,153h53"/>
+  <path id="形状_5_拷贝" data-name="形状 5 拷贝" class="cls-2" d="M151,154v4"/>
+  <text id="_00" data-name="00" class="cls-3" x="227.005" y="116.61">00</text>
+  <text id="_01" data-name="01" class="cls-3" x="292.005" y="116.61">01</text>
+  <text id="_02" data-name="02" class="cls-3" x="358.005" y="116.61">02</text>
+  <text id="_35" data-name="35" class="cls-3" x="162.005" y="116.61">35</text>
+  <text id="_05" data-name="05" class="cls-3" x="131.005" y="162.61">05</text>
+  <text id="_05-2" data-name="05" class="cls-3" x="328.005" y="162.61">05</text>
+  <path id="形状_7_拷贝" data-name="形状 7 拷贝" class="cls-2" d="M413,240h9"/>
+  <path id="形状_7" data-name="形状 7" class="cls-2" d="M413,252h9"/>
+  <path id="形状_6" data-name="形状 6" class="cls-2" d="M413,264h18"/>
+  <path id="形状_7_拷贝_2" data-name="形状 7 拷贝 2" class="cls-2" d="M413,288h9"/>
+  <path id="形状_7_拷贝_2-2" data-name="形状 7 拷贝 2" class="cls-2" d="M413,276h9"/>
+  <path id="形状_7_拷贝_3" data-name="形状 7 拷贝 3" class="cls-2" d="M413,312h9"/>
+  <path id="形状_7_拷贝_3-2" data-name="形状 7 拷贝 3" class="cls-2" d="M413,300h9"/>
+  <path id="形状_6_拷贝" data-name="形状 6 拷贝" class="cls-2" d="M413,324h18"/>
+  <path id="形状_7_拷贝_4" data-name="形状 7 拷贝 4" class="cls-2" d="M413,348h9"/>
+  <path id="形状_7_拷贝_4-2" data-name="形状 7 拷贝 4" class="cls-2" d="M413,336h9"/>
+  <path id="形状_7_拷贝_4-3" data-name="形状 7 拷贝 4" class="cls-2" d="M413,372h9"/>
+  <path id="形状_7_拷贝_4-4" data-name="形状 7 拷贝 4" class="cls-2" d="M413,360h9"/>
+  <path id="形状_6_拷贝_2" data-name="形状 6 拷贝 2" class="cls-2" d="M413,384h18"/>
+  <path id="形状_7_拷贝_5" data-name="形状 7 拷贝 5" class="cls-2" d="M413,408h9"/>
+  <path id="形状_7_拷贝_5-2" data-name="形状 7 拷贝 5" class="cls-2" d="M413,396h9"/>
+  <path id="形状_7_拷贝-2" data-name="形状 7 拷贝" class="cls-2" d="M61,240H52"/>
+  <path id="形状_7-2" data-name="形状 7" class="cls-2" d="M61,252H52"/>
+  <path id="形状_6-2" data-name="形状 6" class="cls-2" d="M61,264H43"/>
+  <path id="形状_7_拷贝_2-3" data-name="形状 7 拷贝 2" class="cls-2" d="M61,288H52"/>
+  <path id="形状_7_拷贝_2-4" data-name="形状 7 拷贝 2" class="cls-2" d="M61,276H52"/>
+  <path id="形状_7_拷贝_3-3" data-name="形状 7 拷贝 3" class="cls-2" d="M61,312H52"/>
+  <path id="形状_7_拷贝_3-4" data-name="形状 7 拷贝 3" class="cls-2" d="M61,300H52"/>
+  <path id="形状_6_拷贝-2" data-name="形状 6 拷贝" class="cls-2" d="M61,324H43"/>
+  <path id="形状_7_拷贝_4-5" data-name="形状 7 拷贝 4" class="cls-2" d="M61,348H52"/>
+  <path id="形状_7_拷贝_4-6" data-name="形状 7 拷贝 4" class="cls-2" d="M61,336H52"/>
+  <path id="形状_7_拷贝_4-7" data-name="形状 7 拷贝 4" class="cls-2" d="M61,372H52"/>
+  <path id="形状_7_拷贝_4-8" data-name="形状 7 拷贝 4" class="cls-2" d="M61,360H52"/>
+  <path id="形状_6_拷贝_2-2" data-name="形状 6 拷贝 2" class="cls-2" d="M61,384H43"/>
+  <path id="形状_7_拷贝_5-3" data-name="形状 7 拷贝 5" class="cls-2" d="M61,408H52"/>
+  <path id="形状_7_拷贝_5-4" data-name="形状 7 拷贝 5" class="cls-2" d="M61,396H52"/>
+  <text id="H" class="cls-3" x="403.799" y="188.705">H</text>
+  <text id="_1200" data-name="1200" class="cls-3" x="416.798" y="188.705">1200</text>
+  <text id="_760.0" data-name="760.0" class="cls-3" x="403.799" y="224.705">760.0</text>
+  <text id="_120" data-name="120" class="cls-3" x="400.799" y="206.705">120</text>
+  <text id="_05-3" data-name="05" class="cls-3" x="421.799" y="206.705">05</text>
+  <text id="G_1.0" data-name="G+1.0" class="cls-3" x="26.798" y="188.705">G+1.0</text>
+  <text id="M1.40" class="cls-3" x="26.798" y="206.705">M1.40</text>
+  <text id="TS1265" class="cls-3" x="26.798" y="224.705">TS1265</text>
+  <path id="形状_6_拷贝_3" data-name="形状 6 拷贝 3" class="cls-2" d="M105,324H65"/>
+  <path id="形状_6_拷贝_4" data-name="形状 6 拷贝 4" class="cls-2" d="M205,324H109"/>
+  <path id="形状_6_拷贝_5" data-name="形状 6 拷贝 5" class="cls-2" d="M367,324h40"/>
+  <path id="形状_6_拷贝_5-2" data-name="形状 6 拷贝 5" class="cls-2" d="M267,324h96"/>
+  <path id="形状_8" data-name="形状 8" class="cls-4" d="M220,207h8l4,15,4-15,4,15,4-15h8"/>
+  <circle id="椭圆_1" data-name="椭圆 1" class="cls-5" cx="160" cy="277" r="6"/>
+  <path id="形状_9" data-name="形状 9" class="cls-4" d="M160,270V255"/>
+  <circle id="椭圆_2" data-name="椭圆 2" class="cls-5" cx="308" cy="274" r="11"/>
+  <path id="形状_10" data-name="形状 10" class="cls-4" d="M308,262V252"/>
+  <path id="形状_11" data-name="形状 11" class="cls-4" d="M320,274h21"/>
+  <path id="形状_11_拷贝" data-name="形状 11 拷贝" class="cls-4" d="M275,274h21"/>
+  <path id="形状_12" data-name="形状 12" class="cls-4" d="M126,122h12"/>
+  <path id="形状_13" data-name="形状 13" class="cls-4" d="M132,123v12"/>
+  <path id="形状_4_拷贝_2" data-name="形状 4 拷贝 2" class="cls-6" d="M150,506h53"/>
+  <path id="形状_5_拷贝_2" data-name="形状 5 拷贝 2" class="cls-2" d="M151,505v-4"/>
+  <path id="形状_4_拷贝_3" data-name="形状 4 拷贝 3" class="cls-6" d="M322,506H269"/>
+  <path id="形状_5_拷贝_3" data-name="形状 5 拷贝 3" class="cls-2" d="M321,505v-4"/>
+  <text id="_05-4" data-name="05" class="cls-3" x="131.005" y="510.61">05</text>
+  <text id="_05-5" data-name="05" class="cls-3" x="328.005" y="510.61">05</text>
+  <text id="_02-2" data-name="+02" class="cls-3" x="74.962" y="320.015">+02</text>
+  <text id="A" class="cls-3" x="81.962" y="343.015">A</text>
+  <text id="_15" data-name="+15" class="cls-3" x="376.962" y="320.015">+15</text>
+  <text id="H-2" data-name="H" class="cls-3" x="383.962" y="343.015">H</text>
+  <path id="矩形_1" data-name="矩形 1" class="cls-7" d="M364.876,466.74l1-1.734L378,472.015l-1,1.735Z"/>
+  <path id="矩形_1_拷贝" data-name="矩形 1 拷贝" class="cls-7" d="M309.62,521.351l1.731-1,7,12.142-1.732,1Z"/>
+  <rect id="矩形_1_拷贝_2" data-name="矩形 1 拷贝 2" class="cls-8" x="235" y="541" width="2" height="14"/>
+  <path id="矩形_1_拷贝_3" data-name="矩形 1 拷贝 3" class="cls-7" d="M159.659,520.348l1.732,1-7,12.141-1.731-1Z"/>
+  <path id="矩形_1_拷贝_4" data-name="矩形 1 拷贝 4" class="cls-7" d="M105.136,465l1,1.735-12.122,7.009-1-1.734Z"/>
+  <path id="形状_14" data-name="形状 14" class="cls-9" d="M199,537l-3,9"/>
+  <path id="形状_14_拷贝" data-name="形状 14 拷贝" class="cls-9" d="M273.962,537.325l3.076,9.35"/>
+  <path id="三角形_1" data-name="三角形 1" class="cls-9" d="M235.5,563l9.093,15.75H226.407Z"/>
+  <text id="_156.5_4" data-name="156.5＞4" class="cls-3" x="420.059" y="492.12">156.5＞4</text>
+  <text id="_11:05" data-name="11:05" class="cls-3" x="420.059" y="462.12">11:05</text>
+  <text id="B" class="cls-3" x="411.059" y="435.12">B</text>
+  <text id="IS" class="cls-3" x="24.059" y="445.12">IS</text>
+  <text id="ATRE" class="cls-3" x="9.059" y="462.12">ATRE</text>
+  <text id="_115" data-name="115" class="cls-3" x="16.059" y="389.12">115</text>
+  <text id="_120-2" data-name="120" class="cls-3" x="16.059" y="329.12">120</text>
+  <text id="_125" data-name="125" class="cls-3" x="16.059" y="269.12">125</text>
+  <text id="_10.0" data-name="10.0" class="cls-3" x="435.059" y="389.12">10.0</text>
+  <text id="_12.5" data-name="12.5" class="cls-3" x="435.059" y="329.12">12.5</text>
+  <text id="_13.0" data-name="13.0" class="cls-3" x="435.059" y="269.12">13.0</text>
+   <script xlink:href="jquery.min.js" type="application/ecmascript" />
+   <script xlink:href="svg.js" type="application/ecmascript" />
+   <script xlink:href="underscore-min.js" type="application/ecmascript" />
+   <script xlink:href="test.js" type="application/ecmascript" />
+</svg>
